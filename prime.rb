@@ -22,6 +22,6 @@ def prime? (int)
         return false
       end
     end
-    return true
+    return false
   end
 end
